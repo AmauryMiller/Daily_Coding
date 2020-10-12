@@ -1,0 +1,18 @@
+Hoy estoy aprendiendo a configurar Django a traves de un ambiente virtual
+Aqui escibire los comandos basicos
+
+# Se debe estar en la terminal ubicado en el directorio donde trabajare
+
+#Activo el ambiente virtual
+ll_env\Scripts\activate
+
+#Corre el servidor
+python manage.py runserver
+
+-- Creo vistas de la pagina y agrego entradas para el log --
+
+--Creo herencias de paginas padre e hijo y las relaciono --
+
+-- Finalmente creo vistas y html para interactuar en navegador --
+
+--Creamos entradas y temas, con opcion a modificar entradas--
